@@ -13,17 +13,17 @@ The code simulates an A/B testing experiment and walks through the entire proces
 
 ## ✨ Features
 
-### Part 1: Data Generation and Statistical Analysis
+### Section 1: Data Generation and Statistical Analysis
 - Simulates user conversions for two test groups (`Group A` and `Group B`) with specified conversion rates.
 - Calculates key statistical metrics like mean conversion rates and standard deviations for both groups.
 - Performs a two-sample t-test to check if there is a significant difference between the groups.
 
-### Part 2: Basic Visualizations
+### Section 2: Basic Visualizations
 - **Histogram of Conversions**: Visualizes the distribution of conversions in each group.
 - **Box Plot**: Displays the spread and central tendency of conversion rates.
 - **Bar Plot with Error Bars**: Shows conversion rates with error bars to indicate variability.
 
-### Part 3: Advanced Visualizations and Insights
+### Section 3: Advanced Visualizations and Insights
 - **Cumulative Conversion Rate**: Visualizes how conversion rates evolve as more data is collected.
 - **Pie Charts of Conversion Outcomes**: Illustrates the proportion of converted vs. non-converted users in each group.
 - Provides additional insights and a summary of findings, highlighting whether there is a statistically significant difference between the test groups.
@@ -80,11 +80,8 @@ pip install numpy pandas scipy matplotlib seaborn
 Feel free to explore the code, suggest improvements, and share your thoughts! 🎉
 
 ---
-
+Thank You
 **Author**: Ali Sena Danishwer
 **LinkedIn**: https://www.linkedin.com/in/ali-sena-danishwer-346a88280/
 
 
----
-
-Happy Coding! 😊
